@@ -1,3 +1,5 @@
 let nome = ("Leonardo de Sousa Façanha");
 let rosto = ("Lindo");
-console.log(nome, "é", rosto);  
+let cheiro = ("Cheiroso");
+let idade = (36);
+console.log(nome, "é", rosto, "e", cheiro, "tem", idade, "anos",);
